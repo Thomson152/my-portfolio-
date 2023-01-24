@@ -3,7 +3,7 @@
 import React from "react";
 import "./Portifolio.css";
 import img1 from "../../assets/project1.jpg";
-import img2 from "../../assets/portfolio2.jpg";
+import img2 from "../../assets/project2.jpg";
 import img3 from "../../assets/portfolio3.jpg";
 import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
@@ -20,9 +20,9 @@ const data = [
   {
     id: 2,
     image: img2,
-    title: "This is a portfolio item title",
-    github: "https//github.com",
-    demo: "",
+    title: "Coaching Site",
+    github: "https://github.com/Thomson152/CoachingSite",
+    demo: "https://coaching24.netlify.app/",
   },
   {
     id: 3,
